@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tuxedomask95
-- 👀 I’m interested in ML, FEM, Aerospace
+- 👀 I’m interested in ML, Image detection, data science, digital transformation.
 - 🌱 I’m currently learning Python Back-End, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---linkedin

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tuxedomask95
+- 👋 Hi, I’m Deniz
 - 👀 I’m interested in ML, Image detection, data science, digital transformation.
 - 🌱 I’m currently learning Python Back-End, Machine Learning
 - 💞️ I’m looking to collaborate on ...

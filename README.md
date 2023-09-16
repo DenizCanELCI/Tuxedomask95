@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuxedomask95" alt="tuxedomask95" /></a> </p>
 
-- 🔭 I’m currently working on [Sppotify Danceability Playlist, Earthquake Quick Damage Detection](https://github.com/Tuxedomask95/spotify_danceability)
+- 🔭 I’m currently working on [Spotify Danceability Playlist, Earthquake Quick Damage Detection](https://github.com/Tuxedomask95/spotify_danceability)
 
 - 🌱 I’m currently learning **Tensorflow, Django, CNN's**
 
-- 👯 I’m looking to collaborate on [Sppotify Danceability Playlist](https://github.com/Tuxedomask95/spotify_danceability)
+- 👯 I’m looking to collaborate on [Spotify Danceability Playlist](https://github.com/Tuxedomask95/spotify_danceability)
 
 - 🤝 I’m looking for help with [Earthquake Quick Damage Detection](https://github.com/Tuxedomask95/eartquake-quick-damage-detection)
 

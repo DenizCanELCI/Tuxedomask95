@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Earthquake Quick Damage Detection](https://github.com/Tuxedomask95/eartquake-quick-damage-detection)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tuxedomask95/eartquake-quick-damage-detection](https://github.com/Tuxedomask95/eartquake-quick-damage-detection)
+- 👨‍💻 All of my projects are available at ([https://github.com/Tuxedomask95/eartquake-quick-damage-detection](https://github.com/Tuxedomask95))
 
 - 📝 I regularly write articles on [https://medium.com/@metue211](https://medium.com/@metue211)
 

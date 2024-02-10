@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deniz Can ELCI,</h1>
-<h3 align="center">A passionate ML & Python developer now in Germany</h3>
+<h3 align="center">A passionate ML & Python developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuxedomask95&label=Profile%20views&color=0e75b6&style=flat" alt="tuxedomask95" /> </p>
 
